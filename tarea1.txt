@@ -1,0 +1,6 @@
+Parte 1: Configuración Inicial y Creación del Repositorio
+1.	Configuren Git en sus computadoras con sus nombres y correos electrónicos.
+2.	Cree un repositorio local en la máquina de uno de los integrantes del grupo. 
+	El repositorio debe llamarse practica-git.
+3.	Tomen un pantallazo del comando que indica que se ha inicializado el repositorio local 
+	(git init), mostrando la terminal con el nombre de la carpeta. 
